@@ -47,7 +47,7 @@ yarn
 Being in the root directory of the repository, run:
 
 ```sh
-yarn start
+yarn start:msw
 ```
 
 ## Running test (in watch mode)
