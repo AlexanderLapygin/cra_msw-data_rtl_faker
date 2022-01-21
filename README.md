@@ -4,13 +4,15 @@
     </a>
 </div>
 
-# CRA starter with testing by React Testing Library and MSW
+# CRA starter with testing using Faker, React Testing Library, MSW and MSWJS/DATA
 
 ## Feature tags
 
 - create-react-app
+- faker
 - javascript
-- mock-server-worker
+- msw
+- msw-data
 - react
 - react-testing-library
 - rest
@@ -22,11 +24,7 @@
 
 ## Direct ancestors
 
-[***- rtl***: cra_msw](https://github.com/AlexanderLapygin/cra_msw)
-
-## Direct descendants
-
-[***+ cypress, e2e***: cra_rtl_cypress_msw](https://github.com/AlexanderLapygin/cra_rtl_cypress_msw)
+[***- faker, msw-data***: cra_rtl_msw](https://github.com/AlexanderLapygin/cra_rtl_msw)
 
 ---
 
