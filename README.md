@@ -42,7 +42,7 @@ yarn
 
 ## Running
 
-Being in the repository root directory, run:
+Being in the root directory of the repository, run:
 
 ```sh
 yarn start
