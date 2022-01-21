@@ -4,7 +4,7 @@
     </a>
 </div>
 
-# CRA starter with testing using Faker, React Testing Library, MSW and MSWJS/DATA
+# CRA starter for mini-blog with testing using FAKER, RTL, MSW and MSWJS/DATA
 
 ## Feature tags
 
@@ -60,9 +60,11 @@ yarn test
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
 
-## Inspired by
+## Inspiration and original code
 
-[rest-react - example from MSW](https://github.com/mswjs/examples/tree/master/examples/rest-react)
+[Improve mocking and local development with MswJs and MswJsData](https://medium.com/@alexpagnotta/improve-mocking-and-local-development-with-mswjs-and-mswjsdata-deddcae15585)
+
+The original code was taken from [mswjs-data-blog-post](https://github.com/AlexPagnotta/mswjs-data-blog-post)
 
 ### License
 
