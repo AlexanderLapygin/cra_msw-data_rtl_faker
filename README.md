@@ -4,7 +4,7 @@
     </a>
 </div>
 
-# CRA starter with testing using Faker, React Testing Library, MSW and MSWJS/DATA
+# CRA starter for mini-blog with testing using FAKER, RTL, MSW and MSWJS/DATA
 
 ## Feature tags
 
