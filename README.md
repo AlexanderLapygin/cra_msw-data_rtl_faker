@@ -4,11 +4,12 @@
     </a>
 </div>
 
-# CRA starter for mini-blog with testing using FAKER, RTL, MSW and MSWJS/DATA
+# CRA starter for crud with testing using FAKER, RTL, MSW and MSWJS/DATA
 
 ## Feature tags
 
 - create-react-app
+- crud
 - faker
 - javascript
 - msw
@@ -25,7 +26,7 @@
 
 ## Direct ancestors
 
-[***- faker, msw-data***: cra_rtl_msw](https://github.com/AlexanderLapygin/cra_rtl_msw)
+[***- crud, faker, msw-data***: cra_rtl_msw](https://github.com/AlexanderLapygin/cra_rtl_msw)
 
 ---
 
