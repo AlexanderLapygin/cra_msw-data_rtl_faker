@@ -19,6 +19,7 @@
 - starter
 - template
 - testing
+- typescript
 
 ---
 
